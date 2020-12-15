@@ -1,7 +1,7 @@
 ## Marcelo Costanzo Miranda
 
 [![Gmail Badge](https://img.shields.io/badge/-marcelocm1995@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelocm1995@gmail.com)](mailto:marcelocm1995@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo%Costanzo-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-costanzo-miranda-952b58147/)](https://www.linkedin.com/in/marcelo-costanzo-miranda-952b58147/)
+[![Linkedin Badge](https://img.shields.io/badge/-Arnaldo%20Viana-2867B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-costanzo-miranda-952b58147/)](https://www.linkedin.com/in/marcelo-costanzo-miranda-952b58147/)
 [![Mail Badge](https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJ1QhIezVGMMPmDKTGRj7cA) 
 
 
