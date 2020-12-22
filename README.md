@@ -5,30 +5,18 @@
 [![Mail Badge](https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJ1QhIezVGMMPmDKTGRj7cA) 
 
 
-I'm Marcelo Costanzo Miranda from Brazil, currently I work in a mechatronics systems laboratory at Mechatronic Engineering - INSPER. I love eletronics systems, mainly in automotive area. 
+I'm Marcelo Costanzo Miranda from Brazil, currently I work in a mechatronics systems laboratory at Mechatronic Engineering - INSPER. I love eletronics systems, mainly in automotive area.
+
+I'm Electronics Technician at Radial. Graduate on Automotive Eletronic at Fatec Santo André. Mastering in Eletronic Control Systems at Universidade de São Paulo (POLI-USP).
 
 ## Skills and Experience
 
-* ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+* C and C++ for microcontrollers, especially STM32
+* PCB design and schematics
 * :car: CAN Bus, injection and ignition control
 
 
-* :computer: Linux, Shell Script, Raspberry PI
-* :snake: Python, C/C++, Opencv
-* :robot: ROS, Gazebo
 
-Under construction....
+:construction: Under construction.... 
 <!--
 **Marcelocm1995/Marcelocm1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
