@@ -5,7 +5,17 @@
 [![Mail Badge](https://img.shields.io/badge/-Youtube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJ1QhIezVGMMPmDKTGRj7cA) 
 
 
-I'm Marcelo Costanzo Miranda from Brazil, currently I work in a mechatronics systens laboratory at Mechatronic Engineering - INSPER.
+I'm Marcelo Costanzo Miranda from Brazil, currently I work in a mechatronics systems laboratory at Mechatronic Engineering - INSPER. I love eletronics systems, mainly in automotive area. 
+
+## Skills and Experience
+
+* ![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+* :car: CAN Bus, injection and ignition control
+
+
+* :computer: Linux, Shell Script, Raspberry PI
+* :snake: Python, C/C++, Opencv
+* :robot: ROS, Gazebo
 
 Under construction....
 <!--
